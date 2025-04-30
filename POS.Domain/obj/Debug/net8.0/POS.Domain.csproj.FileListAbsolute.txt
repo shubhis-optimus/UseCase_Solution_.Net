@@ -1,0 +1,13 @@
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.deps.json
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.dll
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\bin\Debug\net8.0\POS.Domain.pdb
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.AssemblyInfo.cs
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.sourcelink.json
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.dll
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\refint\POS.Domain.dll
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\POS.Domain.pdb
+C:\Users\shubhi.srivastava\source\repos\POS\POS.Domain\obj\Debug\net8.0\ref\POS.Domain.dll
