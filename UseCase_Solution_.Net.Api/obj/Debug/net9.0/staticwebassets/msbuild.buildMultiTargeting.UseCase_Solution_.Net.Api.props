@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UseCase_Solution_.Net.Api.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\bin\Debug\net9.0\UseCase_Solution_.Net.Domain.deps.json
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\bin\Debug\net9.0\UseCase_Solution_.Net.Domain.dll
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\bin\Debug\net9.0\UseCase_Solution_.Net.Domain.pdb
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\UseCase_Solution_.Net.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\UseCase_Solution_.Net.Domain.AssemblyInfoInputs.cache
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\UseCase_Solution_.Net.Domain.AssemblyInfo.cs
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\UseCase_Solution_.Net.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\UseCase_Solution_.Net.Domain.sourcelink.json
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\UseCase_Solution_.Net.Domain.dll
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\refint\UseCase_Solution_.Net.Domain.dll
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\UseCase_Solution_.Net.Domain.pdb
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Domain\obj\Debug\net9.0\ref\UseCase_Solution_.Net.Domain.dll

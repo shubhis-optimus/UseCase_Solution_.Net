@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Domain\\UseCase_Solution_.Net.Domain.csproj",
-      "projectName": "UseCase_Solution_.Net.Domain",
-      "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Domain\\UseCase_Solution_.Net.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Domain\\POS.Domain.csproj",
+      "projectName": "POS.Domain",
+      "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Domain\\POS.Domain.csproj",
       "packagesPath": "C:\\Users\\shubhi.srivastava\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Domain\\obj\\",
       "projectStyle": "PackageReference",

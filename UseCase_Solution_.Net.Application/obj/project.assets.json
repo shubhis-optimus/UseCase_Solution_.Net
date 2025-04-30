@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "POS.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/POS.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POS.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "POS.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UseCase_Solution_.Net.Domain/POS.Domain.csproj",
+      "msbuildProject": "../UseCase_Solution_.Net.Domain/POS.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "POS.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\shubhi.srivastava\\.nuget\\packages\\": {},
@@ -14,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Application\\UseCase_Solution_.Net.Application.csproj",
-      "projectName": "UseCase_Solution_.Net.Application",
-      "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Application\\UseCase_Solution_.Net.Application.csproj",
+      "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Application\\POS.Application.csproj",
+      "projectName": "POS.Application",
+      "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Application\\POS.Application.csproj",
       "packagesPath": "C:\\Users\\shubhi.srivastava\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Application\\obj\\",
       "projectStyle": "PackageReference",
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Domain\\POS.Domain.csproj": {
+              "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Domain\\POS.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

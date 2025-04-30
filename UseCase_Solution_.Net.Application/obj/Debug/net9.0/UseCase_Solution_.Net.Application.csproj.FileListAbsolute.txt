@@ -1,0 +1,16 @@
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\bin\Debug\net9.0\UseCase_Solution_.Net.Application.deps.json
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\bin\Debug\net9.0\UseCase_Solution_.Net.Application.dll
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\bin\Debug\net9.0\UseCase_Solution_.Net.Application.pdb
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\bin\Debug\net9.0\UseCase_Solution_.Net.Domain.dll
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\bin\Debug\net9.0\UseCase_Solution_.Net.Domain.pdb
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.csproj.AssemblyReference.cache
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.AssemblyInfoInputs.cache
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.AssemblyInfo.cs
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.csproj.CoreCompileInputs.cache
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.sourcelink.json
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_.2AE777C9.Up2Date
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.dll
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\refint\UseCase_Solution_.Net.Application.dll
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\UseCase_Solution_.Net.Application.pdb
+C:\Users\shubhi.srivastava\source\repos\UseCase_Solution_.Net\UseCase_Solution_.Net.Application\obj\Debug\net9.0\ref\UseCase_Solution_.Net.Application.dll

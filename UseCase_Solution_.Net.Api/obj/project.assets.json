@@ -33,6 +33,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "POS.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "POS.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/POS.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POS.Application.dll": {}
+        }
+      },
+      "POS.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/POS.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POS.Domain.dll": {}
+        }
+      },
+      "POS.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "POS.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/POS.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POS.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -67,11 +103,27 @@
         "microsoft.openapi.1.6.17.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "POS.Application/1.0.0": {
+      "type": "project",
+      "path": "../UseCase_Solution_.Net.Application/POS.Application.csproj",
+      "msbuildProject": "../UseCase_Solution_.Net.Application/POS.Application.csproj"
+    },
+    "POS.Domain/1.0.0": {
+      "type": "project",
+      "path": "../UseCase_Solution_.Net.Domain/POS.Domain.csproj",
+      "msbuildProject": "../UseCase_Solution_.Net.Domain/POS.Domain.csproj"
+    },
+    "POS.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../UseCase_Solution_.Net.Infrastructure/POS.Infrastructure.csproj",
+      "msbuildProject": "../UseCase_Solution_.Net.Infrastructure/POS.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.AspNetCore.OpenApi >= 9.0.3"
+      "Microsoft.AspNetCore.OpenApi >= 9.0.3",
+      "POS.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -81,9 +133,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Api\\UseCase_Solution_.Net.Api.csproj",
-      "projectName": "UseCase_Solution_.Net.Api",
-      "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Api\\UseCase_Solution_.Net.Api.csproj",
+      "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Api\\POS.Api.csproj",
+      "projectName": "POS.Api",
+      "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Api\\POS.Api.csproj",
       "packagesPath": "C:\\Users\\shubhi.srivastava\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Api\\obj\\",
       "projectStyle": "PackageReference",
@@ -105,7 +157,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Infrastructure\\POS.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\UseCase_Solution_.Net.Infrastructure\\POS.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
