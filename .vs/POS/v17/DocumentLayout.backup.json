@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2089A9C-0A07-493B-B205-9765B39D470B}|POS.Api\\POS.Api.csproj|c:\\users\\shubhi.srivastava\\source\\repos\\pos\\pos.api\\pos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2089A9C-0A07-493B-B205-9765B39D470B}|POS.Api\\POS.Api.csproj|solutionrelative:pos.api\\pos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POS.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\POS.Api\\POS.Api.csproj",
+              "RelativeDocumentMoniker": "POS.Api\\POS.Api.csproj",
+              "ToolTip": "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\POS.Api\\POS.Api.csproj",
+              "RelativeToolTip": "POS.Api\\POS.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T05:31:18.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\POS.Api\\POS.Api.csproj": {}
+    "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\POS.Api\\POS.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\POS.Api\\POS.Api.csproj": {
+    "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\POS.Api\\POS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\POS.Api\\POS.Api.csproj",
+        "projectUniqueName": "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\POS.Api\\POS.Api.csproj",
         "projectName": "POS.Api",
-        "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\POS.Api\\POS.Api.csproj",
+        "projectPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\POS.Api\\POS.Api.csproj",
         "packagesPath": "C:\\Users\\shubhi.srivastava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\UseCase_Solution_.Net\\POS.Api\\obj\\",
+        "outputPath": "C:\\Users\\shubhi.srivastava\\source\\repos\\POS\\POS.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
